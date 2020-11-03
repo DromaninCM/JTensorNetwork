@@ -6,6 +6,8 @@ The tutorials written in Julia explain the following topics:
   Review of basic linear algebra with Julia.
 2. 02_Tensor_contraction.ipynb:\
   Contraction of tensors.
+3. 03_Singular_value_decomposition:\
+  SVD applied to MPS to form various canonical forms.
 
 
 N.D.R.:
