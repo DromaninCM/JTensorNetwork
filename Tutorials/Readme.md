@@ -5,7 +5,7 @@ The tutorials written in Julia explain the following topics:
 1. 01_Linear_Algebra.ipynb:\
   Review of basic linear algebra with Julia.
 2. 02_Tensor_contraction.ipynb:\
-  Contractino of tensors.
+  Contraction of tensors.
 
 
 N.D.R.:
