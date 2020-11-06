@@ -6,8 +6,10 @@ The tutorials written in Julia explain the following topics:
   Review of basic linear algebra with Julia.
 2. 02_Tensor_contraction.ipynb:\
   Contraction of tensors.
-3. 03_Singular_value_decomposition:\
+3. 03_Singular_value_decomposition.ipynb:\
   SVD applied to MPS to form various canonical forms.
+4. 04_AKLT_model_and_expectation_values.ipynb:\
+  Compute the expectation values of an MPS using the AKLT model as an example.
 
 
 N.D.R.:
