@@ -10,6 +10,8 @@ The tutorials written in Julia explain the following topics:
   SVD applied to MPS to form various canonical forms.
 4. 04_AKLT_model_and_expectation_values.ipynb:\
   Compute the expectation values of an MPS using the AKLT model as an example.
+5. 05_Iterative_diagonalization.ipynb:\
+  Perform iterative diagonalization of 1D systems.
 
 
 N.D.R.:
