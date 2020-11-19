@@ -118,4 +118,6 @@ else
     Cleft = contract(B,3,[1 2],A,3,[1 2]);
 end
 
+return Cleft
+
 end
