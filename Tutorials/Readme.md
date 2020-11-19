@@ -12,6 +12,8 @@ The tutorials written in Julia explain the following topics:
   Compute the expectation values of an MPS using the AKLT model as an example.
 5. 05_Iterative_diagonalization.ipynb:\
   Perform iterative diagonalization of 1D systems.
+6. 06_DMRG.ipynb:\
+  Perform Density Matrix Renormalization Group on spin-model Hamiltonians.
 
 
 N.D.R.:
