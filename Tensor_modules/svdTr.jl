@@ -95,7 +95,7 @@ U2,S2,V2 = svd(T2); # SVD
 
 # number to be kept determined by Nkeep and by Stol
 flag = 0
-for i in length(S2)
+for i in 1:length(S2)
 	if S2[i] > Stol
 		flag = i
 	end
