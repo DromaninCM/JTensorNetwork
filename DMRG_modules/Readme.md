@@ -8,3 +8,9 @@ Modules employed in the tutorials for DMRG:
 
 3. DMRG_2site.jl: \
   Perform the 2-site DMRG search of the ground-state and first excited state of a given model Hamiltonian;
+  
+4. iTEBD_GS.jl: \
+  Perform infinite time-evolving block decimation via Vidal's and Hasting's methods;
+  
+5. canon_iMPS.jl: \
+  Orthogonalize Vidal's Gamma-Lambda representation of infinite MPS;
