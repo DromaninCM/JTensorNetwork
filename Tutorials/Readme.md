@@ -14,6 +14,9 @@ The tutorials written in Julia explain the following topics:
   Perform iterative diagonalization of 1D systems.
 6. 06_DMRG.ipynb:\
   Perform Density Matrix Renormalization Group on spin-model Hamiltonians.
+  
+7. 07_iTEBD.ipynb:\
+  Perform infinite time-evolving block decimation via Vidal and Hasting method and subsequent orthogonalization.
 
 
 N.D.R.:
