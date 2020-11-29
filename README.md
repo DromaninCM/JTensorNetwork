@@ -15,5 +15,5 @@ This series of tutorials for tensor network theory follows those of the "Tensor 
 3. Img:\
   Folder containing images employed in the tutorials.
   
-4. include_modules.jl:\
+4. JTensorNetwork.jl:\
   Module which loads all the relevant functions;
