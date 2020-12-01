@@ -16,3 +16,4 @@ include("DMRG_modules/DMRG_2site.jl");
 include("DMRG_modules/eigs_1site.jl");
 include("DMRG_modules/iTEBD_GS.jl");
 include("DMRG_modules/canon_iMPS.jl");
+include("DMRG_modules/tDMRG.jl");
