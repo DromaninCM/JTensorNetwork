@@ -14,3 +14,6 @@ Modules employed in the tutorials for DMRG:
   
 5. canon_iMPS.jl: \
   Orthogonalize Vidal's Gamma-Lambda representation of infinite MPS;
+  
+6. tDMRG.jl: \
+  Perform real-time evolution of MPS via time-dependent DMRG;
