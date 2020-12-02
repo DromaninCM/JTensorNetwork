@@ -18,6 +18,8 @@ The tutorials written in Julia explain the following topics:
   Perform infinite time-evolving block decimation via Vidal and Hasting method and subsequent orthogonalization.
 8. 08_tDMRG.ipynb:\
   Perform real-time evolution of MPS via time-dependent DMRG for the XY-1/2 1D spin model;
+9. 09_TDVP.ipynb:\
+  Perform real-time evolution of MPS via time-dependent variational principle (TDVP) for the XY-1/2 1D spin MPO model;
 
 
 N.D.R.:
