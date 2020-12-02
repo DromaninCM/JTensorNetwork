@@ -1,5 +1,5 @@
 # JTensorNetwork
-Tensor network with Julia
+Tensor network with Julia for DMRG and NRG applications with model Hamiltonians
 
 
 ## Description
