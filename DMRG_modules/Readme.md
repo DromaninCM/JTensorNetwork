@@ -17,3 +17,6 @@ Modules employed in the tutorials for DMRG:
   
 6. tDMRG.jl: \
   Perform real-time evolution of MPS via time-dependent DMRG;
+  
+7. TDVP_1site.jl: \
+  Perform real-time evolution of MPS via time-dependent variational priniciple;
